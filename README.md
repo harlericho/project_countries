@@ -86,7 +86,7 @@ To start the project <project_countries>, you must follow the following steps:
 To start the project <project_countries>, you must follow the following steps:
 
 1. Open a terminal at the root of the frontend project.
-   > project_blogs/frontend/
+   > project_countries/frontend/
 2. In the main root of the frontend project execute the following in your terminal:
    ```
    npm install
